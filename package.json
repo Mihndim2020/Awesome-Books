@@ -1,0 +1,33 @@
+{
+  "name": "awesome-books",
+  "version": "1.0.0",
+  "description": "In this project, I build a basic website that allows users to add/remove books from a list. I will achieve this by using JavaScript objects, arrays and classes to dynamically modify the DOM and add basic events. I am also going to use webpack a JavaScripte module bundler for module bundling.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihndim2020/Awesome-Books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihndim2020/Awesome-Books/issues"
+  },
+  "homepage": "https://github.com/Mihndim2020/Awesome-Books#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.62.1",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
